@@ -4,7 +4,7 @@
   "description": "Minify all html, css, js files of your project",
   "main": "index.js",
   "dependencies": {
-    "browse-directory": "^0.0.1",
+    "browse-directory": "^0.0.3",
     "html-minifier": "^3.5.12",
     "uglify-js": "^3.3.16"
   },
