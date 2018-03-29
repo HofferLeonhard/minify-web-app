@@ -1,0 +1,34 @@
+{
+  "name": "minify-web-app",
+  "version": "1.0.0",
+  "description": "Minify all html, css, js files of your project",
+  "main": "index.js",
+  "dependencies": {
+    "browse-directory": "^0.0.1",
+    "html-minifier": "^3.5.12",
+    "uglify-js": "^3.3.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HofferLeonhard/minify-web-app.git"
+  },
+  "keywords": [
+    "minify",
+    "node",
+    "project",
+    "production",
+    "distribute",
+    "web",
+    "application"
+  ],
+  "author": "Ouandi Mbiandja Hoffer Fleury",
+  "license": "MIT-Clause",
+  "bugs": {
+    "url": "https://github.com/HofferLeonhard/minify-web-app/issues"
+  },
+  "homepage": "https://github.com/HofferLeonhard/minify-web-app#readme"
+}
