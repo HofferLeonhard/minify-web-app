@@ -5,10 +5,15 @@ Minify your Web application by minifying all html, css and js files inside it.
 
 ## How to use
 
-#### Create your project
+#### Set configurations into a config.json file
 
-First create a project you want to minify, into a "inputs" folder.
-For example, to minify a project called test, just create it and paste it into a folder called "inputs".
+Set congifs app initialisation by setting :
+
+	##### The input projet folder 
+    	set the path of the project to minify
+        
+	##### The output projet folder 
+    	set the path of the minified projet. It is in this folder you will get the result
 
 #### Run the app
 
@@ -22,7 +27,7 @@ This will show you the results of the operations performed
 
 
 #### Where to get the result
-The minified project is stored into a "outputs" folder, you just have to enjoy it !.
+The minified project is stored into a "outputDir" path setting in the config.json file, you just have to enjoy it !.
 
 ##### NB :
 Minify only one project at a time
