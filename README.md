@@ -5,6 +5,15 @@ Minify your Web application by minifying all html, css and js files inside it.
 
 ## How to use
 
+#### Install dependencies
+
+install all npm dependencies by typing the following command at the root level of the project
+
+```bash
+npm install 
+```
+
+
 #### Set configurations into a config.json file
 
 Set congifs app initialisation by setting :
