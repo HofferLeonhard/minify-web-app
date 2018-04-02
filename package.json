@@ -1,13 +1,5 @@
 {
   "name": "minify-web-app",
-<<<<<<< HEAD
-  "version": "1.0.2",
-  "description": "Minify all html, css, js files of your project",
-  "main": "index.js",
-  "dependencies": {
-    "browse-directory": "^0.0.3",
-    "html-minifier": "^3.5.12",
-=======
   "version": "1.0.3",
   "description": "Minify your Web application by minifying all html, css, scss and js files inside it.",
   "main": "index.js",
@@ -16,7 +8,6 @@
     "customise-log": "^1.0.0",
     "html-minifier": "^3.5.12",
     "read-console": "^1.0.1",
->>>>>>> New commit after changes
     "uglify-js": "^3.3.16"
   },
   "devDependencies": {},
